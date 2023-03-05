@@ -3,12 +3,11 @@
         <title>所有文章 - Kira&#39;s Blog</title>
         <link>https://kira-qing.github.io/posts/</link>
         <description>所有文章 | Kira&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 06 Mar 2023 00:21:12 &#43;0800</lastBuildDate><atom:link href="https://kira-qing.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://kira-qing.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>博客开通</title>
     <link>https://kira-qing.github.io/posts/helloworld/</link>
-    <pubDate>Mon, 06 Mar 2023 00:21:12 &#43;0800</pubDate><author>
-        <name>作者</name>
-    </author><guid>https://kira-qing.github.io/posts/helloworld/</guid>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><author>
+                        <name>Kira</name><uri>https://kira-qing.github.io/authors/kira</uri></author><guid>https://kira-qing.github.io/posts/helloworld/</guid>
     <description><![CDATA[个人博客开通记录技术学习相关文章]]></description>
 </item></channel>
 </rss>
